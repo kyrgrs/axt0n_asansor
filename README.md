@@ -1,4 +1,4 @@
-# Axt0n_Asansör
+# Axt0n_Asansor
 Simple use lift script
 
 # Installation
